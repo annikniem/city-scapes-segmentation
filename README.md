@@ -21,8 +21,9 @@ This repository contains the following:
 ## Results
 These are the semantic segmentation results on the city-scapes dataset. Notice that the images have been down-sampled for performance reasons.
 
+![results_fig](https://github.com/user-attachments/assets/86b4890e-8df3-48ca-bcf5-681d26b5fb53)
 
 ## References
-[1] Mardani, M., Sun, Q., Vasanawala, S. et al., 2018, Neural Proximal Gradient Descent for Compressive Imaging, https://arxiv.org/pdf/1806.03963
+[1]  Shelhamer E., Long J., and Darrell T., 2016, Fully Convolutional Networks for Semantic Segmentation, https://arxiv.org/pdf/1605.06211
 
-[2] Facebook and NYU FastMRI knee dataset, 2020, https://github.com/facebookresearch/fastMRI
+[2] Cordts M., Omran M., Ramos S. et al., 2016, “The Cityscapes Dataset for Semantic Urban Scene Understanding”
