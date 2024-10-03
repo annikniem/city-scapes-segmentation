@@ -21,7 +21,7 @@ This repository contains the following:
 ## Results
 These are the semantic segmentation results on the city-scapes dataset. Notice that the images have been down-sampled for performance reasons.
 
-![results_fig](https://github.com/user-attachments/assets/86b4890e-8df3-48ca-bcf5-681d26b5fb53)
+![Results](https://github.com/user-attachments/assets/4b3d3850-5df4-4e29-9485-0af3f384f585)
 
 ## References
 [1]  Shelhamer E., Long J., and Darrell T., 2016, Fully Convolutional Networks for Semantic Segmentation, https://arxiv.org/pdf/1605.06211
