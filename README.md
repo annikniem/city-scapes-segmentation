@@ -16,7 +16,7 @@ This repository contains the following:
 
 ## Installation
 1. Clone the repository:
-   git clone git@github.com:annikniem/city-scapes.segmentation.git
+   git clone git@github.com:annikniem/city-scapes-segmentation.git
 
 ## Results
 These are the semantic segmentation results on the city-scapes dataset. Notice that the images have been down-sampled for performance reasons.
